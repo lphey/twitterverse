@@ -1,4 +1,4 @@
-python-telegram-bot==12.4.2
+python-telegram-bot==12.7
 python-dotenv
 tweepy==3.10.0
 
